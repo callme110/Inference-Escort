@@ -1,0 +1,2 @@
+﻿class InferenceEscortValidationError(ValueError):
+    pass

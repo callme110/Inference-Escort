@@ -1,0 +1,14 @@
+﻿{
+  "exclude": [
+    "build"
+  ],
+  "include": [
+    "inference_escort",
+    "tests"
+  ],
+  "ignore": [
+    "benchmarks",
+    "examples",
+    "inference_escort_api"
+  ]
+}
